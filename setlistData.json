@@ -1,0 +1,70 @@
+[
+	{
+	"artist": "The Neighbourhood",
+	"songName":"Fallen Star",
+	"genre": ["Pop"],
+	"year": "2021"
+},
+{
+	"artist": "Shakira",
+	"songName":"Poem to a Horse",
+	"genre": ["Rock"],
+	"year":  "2009"
+},
+
+{
+    "artist": "Mitski",
+	"songName":"Liquid Smooth",
+	"genre": ["Rock"],
+	"year":  "2012"
+},
+
+{
+    "artist": "Bad Bunny",
+	"songName": "Lo Siento BB:/",
+	"genre": ["Pop"],
+    "year": "2021"
+},
+
+{
+    "artist": "Foo Fighters",
+	"songName": "Everlong",
+	"genre": ["Classic Rock"],
+    "year": "1997"
+},
+
+{
+    "artist": "Aphex Twin",
+	"songName": "Fingerbib",
+	"genre": ["Electronic"],
+    "year": "1996" 
+},
+
+{
+    "artist": "Clairo",
+	"songName": "Blouse",
+	"genre": ["Pop"],
+    "year": "2021" 
+},
+
+{
+    "artist": "Cosmo Pyke",
+	"songName": "Social Sites",
+	"genre": ["Alternative"],
+    "year": "2017"
+},
+
+{
+    "artist": "Nicki Minaj",
+	"songName": "Did It On'em",
+	"genre": ["Hip-Hop"],
+    "year": "2018"
+},
+
+{
+    "artist": "Joan Sebastian",
+	"songName": "Envidia",
+	"genre": ["Regional Mexican"],
+    "year": "1993"
+}
+	]
